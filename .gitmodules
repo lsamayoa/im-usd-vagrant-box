@@ -1,0 +1,49 @@
+[submodule "apt"]
+  path = cookbooks/apt
+  url = https://github.com/opscode-cookbooks/apt.git
+[submodule "ark"]
+  path = cookbooks/ark
+  url = https://github.com/opscode-cookbooks/ark.git
+[submodule "authbind"]
+  path = cookbooks/authbind
+  url = https://github.com/realityforge/chef-authbind.git
+[submodule "build-essential"]
+  path = cookbooks/build-essential
+  url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "cassandra"]
+  path = cookbooks/cassandra
+  url = https://github.com/michaelklishin/cassandra-chef-cookbook.git
+[submodule "chef_handler"]
+  path = cookbooks/chef_handler
+  url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "cutlery"]
+  path = cookbooks/cutlery
+  url = https://github.com/realityforge/chef-cutlery.git
+[submodule "glassfish"]
+  path = cookbooks/glassfish
+  url = https://github.com/realityforge/chef-glassfish.git
+[submodule "homebrew"]
+  path = cookbooks/homebrew
+  url = https://github.com/realityforge/homebrew.git
+[submodule "java"]
+  path = cookbooks/java
+  url = https://github.com/socrata-cookbooks/java.git
+[submodule "mysql"]
+  path = cookbooks/mysql
+  url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "openssl"]
+  path = cookbooks/openssl
+  url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "partial_search"]
+  path = cookbooks/partial_search
+  url = https://github.com/opscode-cookbooks/partial_search.git
+[submodule "runit"]
+  path = cookbooks/runit
+  url = https://github.com/hw-cookbooks/runit.git
+[submodule "windows"]
+  path = cookbooks/windows
+  url = https://github.com/opscode-cookbooks/windows.git
+[submodule "yum"]
+  path = cookbooks/yum
+  url = https://github.com/opscode-cookbooks/yum.git
+    
